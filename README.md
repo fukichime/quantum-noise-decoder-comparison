@@ -75,8 +75,6 @@ AlphaQubit-Neural-Decoding/
 |--------|-------------|
 | ![Simulated LER](results/final_ler_hybrid_single.png) | Simulated LER across decoders (10,000 shots) |
 | ![IBM Performance](results/ibm_performance.png) | Real IBM hardware LER (1,000 shots) |
-| ![Noise Injection](results/noise_injection.png) | Noise injection pipeline visualization |
-| ![Decoder Architecture](results/decoder_architecture.png) | Decoder evaluation pathways |
 
 ## How to Run This Code
 
