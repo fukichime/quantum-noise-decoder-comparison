@@ -112,7 +112,7 @@ If you use this work, please cite:
 @misc{aygun2025quantumdecoders,
   author       = {Esranur Ayg{\"u}n},
   title        = {Neural vs. Classical Decoders for the Surface Code: From Simulation to IBM Quantum Hardware},
-  year         = {2025},
+  year         = {2026},
   howpublished = {\url{https://github.com/fukichime/quantum-noise-decoder-comparison}},
   note         = {Department of Computer Engineering, Bah\c{c}e\c{s}ehir University}
 }
